@@ -1,0 +1,5 @@
+admin = Admin.moodle123 (Administrator)
+arifamrullah = Arif.a123 (Course Creator)
+dianr = Dian.r123 (Teacher)
+imans = Iman.s123 (Non-Editing Teacher)
+hamdanh = Hamdan.h123 (Student)
